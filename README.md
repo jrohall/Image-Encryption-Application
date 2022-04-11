@@ -14,6 +14,7 @@ The purpose of this project is to make an encryption application that allows a u
 
 
 Project Milestones:
+-------------------
 
 GUI – Create a simple and easy to use GUI in Matlab, while also ensuring the visual aspect of this GUI is aesthetically pleasing.
 
